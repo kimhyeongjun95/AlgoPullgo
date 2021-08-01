@@ -2,7 +2,7 @@ import sys
 
 N = int(sys.stdin.readline()) # 명령의 수 N 받아오기
 
-number_list = [] # 스택 만들어주기
+number_list = [] # 스택 리스트 만들어주기
 for i in range(N): # 명령의 수 만큼 반복 입력
     command = sys.stdin.readline().split() # push일 경우 뒤에 숫자가 들어오므로 공백으로 분리
     if command[0] == 'push':
