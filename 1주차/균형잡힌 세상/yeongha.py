@@ -4,9 +4,7 @@ def balanced_world(string):
     result = []
     output = "yes"
     for i in string:
-        if i == '(':
-            result.append(i)
-        elif i == '[':
+        if i == '(' or i == '[':
             result.append(i)
         elif i == ')':
             if result and result[-1]=='(':
@@ -24,5 +22,8 @@ def balanced_world(string):
         output = 'no'
     return output
 
-input_string = sys.stdin.readline()
-print(balanced_world(input_string))
+while True:
+    input_string = sys.stdin.readline().rstrip()
+    if input_string == '.':
+        break
+    print(balanced_world(input_string))
