@@ -1,7 +1,7 @@
 while True:
     
     texts = input()
-    result = []
+    result = []      
 
     if texts == '.':
         break

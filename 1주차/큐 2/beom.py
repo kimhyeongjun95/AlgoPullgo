@@ -12,7 +12,7 @@ for tc in range(T):
 
     if order[0] == 'pop':
         if queue:
-            print(queue.popleft())
+            print(queue.popleft()) 
         else:
             print(-1)
     
