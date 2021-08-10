@@ -25,3 +25,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 8/10
   - 백준 - [회전하는 큐(1021)](https://www.acmicpc.net/problem/1021)
   - 백준 - [문자열(1120)](https://www.acmicpc.net/problem/1120)
+
+- 8/12
+  - 백준 - [프린터 큐(1966)](https://www.acmicpc.net/problem/1966)
+  - 백준 - [단어 뒤집기2(17413)[(https://www.acmicpc.net/problem/17413)
