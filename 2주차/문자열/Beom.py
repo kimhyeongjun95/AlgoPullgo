@@ -8,7 +8,7 @@ while len(A) <= len(B):
     for i in range(len(A)):
         if A[i] == B[i]:
             count += 1
-            max_count = max(max_count, count)
+    max_count = max(max_count, count)
     B.pop(0)
     
 print(len(A)-max_count)
