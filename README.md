@@ -29,3 +29,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 8/12
   - 백준 - [프린터 큐(1966)](https://www.acmicpc.net/problem/1966)
   - 백준 - [단어 뒤집기 2(17413)](https://www.acmicpc.net/problem/17413)
+
+## 3주차
+
+- 8/17
+  - 백준 - [부분수열의 합 2(1208)](https://www.acmicpc.net/problem/1208)
+  - 백준 - [나무 자르기(2805)](https://www.acmicpc.net/problem/2805)
