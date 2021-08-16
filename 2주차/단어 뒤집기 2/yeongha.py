@@ -13,7 +13,7 @@ for i in string_list:
         result += i
         continue
 
-    if i.isalpha() or i.isdigit():
+    if i.isalnum():
         string += i
     else:
         result += string[::-1]
