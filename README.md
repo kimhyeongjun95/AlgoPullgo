@@ -35,3 +35,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 8/17
   - 백준 - [부분수열의 합 2(1208)](https://www.acmicpc.net/problem/1208)
   - 백준 - [나무 자르기(2805)](https://www.acmicpc.net/problem/2805)
+
+- 8/19
+  - 백준 - [잃어버린 괄호(1541)](https://www.acmicpc.net/problem/1541)
+  - 백준 - [오큰수(17298)](https://www.acmicpc.net/problem/17298)
