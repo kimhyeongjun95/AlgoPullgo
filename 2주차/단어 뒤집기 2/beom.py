@@ -3,6 +3,7 @@ input = sys.stdin.readline
 text = input()
 result = ''
 tag = ''
+temp = ''
 
 for i in text:
     
@@ -10,6 +11,9 @@ for i in text:
         result += tag
         tag = '<'
     
+
+
+
     elif i == '>':
         result += (tag + '>')
         tag = ''

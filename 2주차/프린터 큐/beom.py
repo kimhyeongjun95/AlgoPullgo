@@ -10,7 +10,7 @@ for _ in range(T):
     check = deque([i for i in range(N)])
     checked = check[M]
     count = 0
-
+    
     while True:
         if imp_list[0] == max(imp_list):
             count += 1
