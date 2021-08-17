@@ -25,6 +25,7 @@ right_sum = sorted(right_num.keys())
 left = 0
 right = len(right_sum) - 1
 cnt = 0
+
 while left < len(left_sum) and right >= 0:
     if left_sum[left] + right_sum[right] == S:
         cnt += left_num[left_sum[left]]*right_num[right_sum[right]]
@@ -39,22 +40,3 @@ if S == 0 :
     cnt -= 1 # 공집합 + 공집합인 경우 빼주기 위해
 
 print(cnt)
-
-def two_pointer(lst, target):
-    left, right = 0,0
-    cnt = 0
-    total = 0
-
-    while left < len(lst):
-        if total == target:
-            cnt += 1
-            total -= lst[left]
-            left += 1
-        elif total > target or right >= len(lst): # 이 부분율 유심히 보길 바란다.
-            total -= lst[left]
-            left += 1
-        elif total < target:
-            total += lst[right]
-            right += 1
-
-    return cnt
