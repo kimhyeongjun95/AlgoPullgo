@@ -33,43 +33,47 @@ n, m = map(int, sys.stdin.readline().split())
 trees = list(map(int, sys.stdin.readline().split()))
 # trees.sort() sort를 할 필요가 없음
 
-def search(p):
-    start = 1
-    end = max(p)
+# def search(p, m):
+#     start = 0
+#     end = max(p)
 
-    while start <= end:
-        middle = (start+end) // 2 # (start+end)를 괄호로 안감싸줘서 계속 middle이 처음에 20으로 설정되있었음.
-        target = 0
-        # print(middle, target)
-        for x in p:
-            if x >= middle:
-                target += x - middle
+#     while start <= end:
+#         middle = (start+end) // 2 
+#         target = 0
 
-        if target >= m:
-            start = middle
+#         for x in p:
+#             if x >= middle:
+#                 target += x - middle
 
-        else:
-            end = middle
+#         if target == m:
+#             return middle
 
-print(search(trees))
+#         if target >= m:
+#             start = middle + 1
+
+#         else:
+#             end = middle - 1
+#     return end
+
+# print(search(trees, m))
         
-# trees.sort()
+trees.sort()
 
-# target = 0
-# p_list = []
+target = 0
+p_list = []
 
-# popped = trees.pop() # 초기값 설정
-# p_list.append(popped)
+popped = trees.pop() # 초기값 설정
+p_list.append(popped)
 
-# # while target < m:
+while target < m:
 
-# #     if p_list[0] == trees[-1]: # p_list에는 같은 크기의 숫자만 append 될것이다.
-# #         popped = trees.pop()
-# #         p_list.append(popped)
+    if p_list[0] == trees[-1]: # p_list에는 같은 크기의 숫자만 append 될것이다.
+        popped = trees.pop()
+        p_list.append(popped)
 
-# #     for i in range(len(p_list)):
-# #         p_list[i] -= 1
-# #         target += 1 # p_list의 길이만큼 target이 커짐
+    for i in range(len(p_list)):
+        p_list[i] -= 1
+        target += 1 # p_list의 길이만큼 target이 커짐
 
 # while target < m:
 
@@ -80,4 +84,4 @@ print(search(trees))
 #     p_list[0] -= 1 
 #     target += 1 * len(p_list)
 
-# print(p_list[0])
+print(p_list[0])
