@@ -56,8 +56,10 @@ for i in s:
     answer.append(result)
 
 temp = answer[0] # 초기값 설정
+print(answer)
 
 for i in range(1, len(answer)):
     temp -= answer[i]
+    
 
 print(temp)
