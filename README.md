@@ -1,4 +1,4 @@
-[toc]
+
 
 # AlgoPullgo 소개
 
@@ -39,3 +39,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 8/19
   - 백준 - [잃어버린 괄호(1541)](https://www.acmicpc.net/problem/1541)
   - 백준 - [오큰수(17298)](https://www.acmicpc.net/problem/17298)
+
+## 4주차
+
+- 8/24
+  - 백준 - [바이러스(2606)](https://www.acmicpc.net/problem/2606)
+  - 백준 - [문자열 게임 2(20437)](https://www.acmicpc.net/problem/20437)
+
+- 8/26
