@@ -42,6 +42,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 ## 4주차
 
+
 - 8/24
   - 백준 - [바이러스(2606)](https://www.acmicpc.net/problem/2606)
   - 백준 - [문자열 게임 2(20437)](https://www.acmicpc.net/problem/20437)
