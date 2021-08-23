@@ -1,4 +1,3 @@
-from abc import abstractproperty
 import sys
 
 N = int(sys.stdin.readline())
