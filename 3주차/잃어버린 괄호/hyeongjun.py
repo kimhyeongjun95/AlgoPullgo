@@ -53,11 +53,14 @@ for i in s:
     temp = i.split('+')
     for x in temp:
         result += int(x)
+        print(x)
     answer.append(result)
 
 temp = answer[0] # 초기값 설정
+# print(answer)
 
 for i in range(1, len(answer)):
     temp -= answer[i]
+    
 
 print(temp)
