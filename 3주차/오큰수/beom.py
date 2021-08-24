@@ -6,7 +6,7 @@ input = sys.stdin.readline
 def find_NGE(arr, N):
     result = [-1] * N
     
-    for i in range(N):
+    for i in range(N): # 3 5 2 7
         stack = []
         j = 1
         while i + j < N:
@@ -26,9 +26,8 @@ print(*find_NGE(arr, N))
 # N = int(input())                         
 # arr = list(map(int, input().split()))  
 # stack = []
-# result = [-1] * N
-
-# for i in range(N):    # i = 0 1 2 3
+# result = [-1] * N     
+# for i in range(N):    
 #     j = 1
 #     while i + j < N:
 #         if arr[i] < arr[i+j]:
