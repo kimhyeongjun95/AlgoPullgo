@@ -1,7 +1,7 @@
 import sys
 
 N = int(sys.stdin.readline())
-A = list(map(int, sys.stdin.readline().split()))
+A = list(map(int, sys.stdin.readline().split()))   # 3 5 2 7
 
 answer = [-1]*N
 stack = []
@@ -21,3 +21,5 @@ while i < N:
     i += 1
 
 print(*answer)
+
+

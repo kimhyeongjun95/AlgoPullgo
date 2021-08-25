@@ -8,7 +8,7 @@ def plus_minus(ans):
     
     return ans, 0
 
-string = sys.stdin.readline().strip()
+string = sys.stdin.readline().strip()   # 50-55+40
 
 answer = 0
 temp = 0
