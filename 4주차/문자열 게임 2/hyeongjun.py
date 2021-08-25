@@ -15,14 +15,11 @@ def find_short(w):
     result = []
     
     for i in range(length):
-        s = '' # 계산용 문자열
-        for j in range(i, length):
+        s = w[i] # 계산용 문자열
+        for j in range(i+1, length):
             s += w[j]
-            if i < j and s.count(w[i]) == k: # 같은 문자고 인덱스가 더 뒤면
+            if s.count(w[i]) == k: # 같은 문자고
                 result.append(len(s))
-
-    while i < length:
-        s = ''
         
     if result:
         return min(result)
@@ -34,10 +31,10 @@ def find_long(w):
     result = []
 
     for i in range(length):
-        s = ''
-        for j in range(i, length):
+        s = w[i]
+        for j in range(i+1, length):
             s += w[j]
-            if w[i] == w[j] and i < j and s.count(w[i]) == k:
+            if w[i] == w[j] and s.count(w[i]) == k:
                 result.append(len(s))
     if result:
         return max(result)

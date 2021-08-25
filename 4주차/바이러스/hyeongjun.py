@@ -27,7 +27,7 @@ for _ in range(pair):
     arr[one].append(two)
     arr[two].append(one)
 
-# print(arr)
+print(arr)
 
 visited = [0] * (n+1)
 count = -1 # 처음에 1은 count한걸로 안봐야함, 영항을 준 것이 아니기 때문에
