@@ -47,3 +47,5 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [문자열 게임 2(20437)](https://www.acmicpc.net/problem/20437)
 
 - 8/26
+  - 백준 - [안전 영역(2468)](https://www.acmicpc.net/problem/2468)
+  - 프로그래머스 - [4주차 위클리 챌린지(직업군 추천하기)](https://programmers.co.kr/learn/challenges)
