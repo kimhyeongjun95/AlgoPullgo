@@ -7,8 +7,10 @@ def solution(table, languages, preference):
     person = {}
     for i, j in zip(languages, preference):
         person[i] = j
+    # print(person)
     
     temp = []
+    # print(table)
     for i in table:
         i = i.split(' ') # 처음 i는 ['SI', 'JAVA', 'JAVASCRIPT', 'SQL', 'PYTHON', 'C#']
         score = []
@@ -19,8 +21,9 @@ def solution(table, languages, preference):
         temp.append((i[0], sum(score)))
     
     # print(temp)
-    answer = sorted(temp, key = lambda x : (int(-x[1]), x[0])) # 점수를 기준으로 역순정렬 // 점수가 동일하면 이름순 // reverse=True 대신 -를 써도 된다.
-    # print(answer)
+    # answer = sorted(temp, key = lambda x : int(-x[1]))
+    answer = sorted(temp, key = lambda x : (-x[1], x[0]), reverse=True) # 점수를 기준으로 역순정렬 // 점수가 동일하면 이름순 // reverse=True 대신 -를 써도 된다.
+    print(answer)
     return answer[0][0]
 
         
