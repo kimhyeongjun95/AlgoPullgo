@@ -57,3 +57,5 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [개미(10158)](https://www.acmicpc.net/problem/10158)
 
 - 9/2
+  - 백준 - [요세푸스 문제(1158)](https://www.acmicpc.net/problem/1158)
+  - 백준 - [적록색약(10026)](https://www.acmicpc.net/problem/10026)
