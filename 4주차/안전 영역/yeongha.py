@@ -13,7 +13,6 @@ def dfs(rain, i, j):
 
 N = int(input())
 city = [list(map(int, input().split())) for _ in range(N)]
-numbers = []
 i = 0
 totals = []
 while True:

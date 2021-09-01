@@ -11,3 +11,9 @@ def solution(table, languages, preference):
         totals.append((job_score[0],total))
     totals.sort(key = lambda x :(-x[1], x[0]))
     return totals[0][0]
+
+table = ["SI JAVA JAVASCRIPT SQL PYTHON C#", "CONTENTS JAVASCRIPT JAVA PYTHON SQL C++", "HARDWARE C C++ PYTHON JAVA JAVASCRIPT", "PORTAL JAVA JAVASCRIPT PYTHON KOTLIN PHP", "GAME C++ C# JAVASCRIPT C JAVA"]	
+languages = ["PYTHON", "C++", "SQL"]
+preference = [7, 5, 5]
+solution(table, languages, preference)
+
