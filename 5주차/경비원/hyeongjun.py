@@ -116,11 +116,7 @@ def path_finder(stores):
                         answer.append(clock_path)
     
     return answer
-                    
 
-
-
-    return answer
 
 width, height = map(int, input().split())
 n = int(input())

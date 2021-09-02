@@ -56,6 +56,8 @@ for i in range(h+1):
 for i in range(h-1, 0, -1):
     q_move.append(i)
 
+print(p_move, 'p_move')
+print(q_move, 'q_move')
 p = p_move[(p+t) % len(p_move)] 
 q = q_move[(q+t) % len(q_move)] # 한번만 연산해주면 되니까..?
 print(p, q)
