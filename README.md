@@ -67,5 +67,3 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 프로그래머스 - [키패드 누르기](https://programmers.co.kr/learn/challenges)
 
 - 9/9
-  - 
-  - 
