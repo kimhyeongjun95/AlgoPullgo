@@ -33,7 +33,6 @@ def dfs(i, j, color):
                 stack.append((nx, ny))
     return
 
-
 N = int(input())
 matrix = [list(input()) for _ in range(N)]
 matrix_s = deepcopy(matrix)
