@@ -75,3 +75,5 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 9/13
   - 백준 - [알고 스팟(1261)](https://www.acmicpc.net/problem/1261)
   - 백준 - [문자열 폭발(9935)](https://www.acmicpc.net/problem/9935)
+
+- 9/15
