@@ -69,3 +69,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 9/10
   - 백준 - [최대 힙(11279)](https://www.acmicpc.net/problem/11279)
   - 백준 - [평범한 배낭(12865)](https://www.acmicpc.net/problem/12865)
+
+## 7주차
+
+- 9/13
+  - 백준 - [알고 스팟(1261)](https://www.acmicpc.net/problem/1261)
+  - 백준 - [문자열 폭발(9935)](https://www.acmicpc.net/problem/9935)
