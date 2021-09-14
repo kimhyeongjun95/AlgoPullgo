@@ -80,5 +80,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [말이 되고프 원숭이(1600)](https://www.acmicpc.net/problem/1600)
   - 백준 - [에라토스테네스의 체(2960)](https://www.acmicpc.net/problem/2960)
 
+## 8주차
+
 - 9/23
   
