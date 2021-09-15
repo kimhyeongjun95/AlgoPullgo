@@ -83,4 +83,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 ## 8주차
 
 - 9/23
+  - 백준 - [1747(소수&팰린드롬)](https://www.acmicpc.net/problem/1747)
+  - 백준 - [토마토(7569)](https://www.acmicpc.net/problem/7569)
+ 
+- 9/26
   
