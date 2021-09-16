@@ -4,6 +4,7 @@ def bfs(K, W, H):
     monkey_dxy = [(1,0),(0,1),(-1,0),(0,-1)]
     deq = deque()
     deq.append([0, 0, 0])
+
     while deq:
         x, y, c = deq.popleft()
         
@@ -31,16 +32,16 @@ K = int(input())
 W, H = map(int, input().split())
 matrix = [list(map(int, input().split())) for _ in range(H)]
 distance = [[[0 for _ in range(K+1)] for _ in range(W)] for _ in range(H)]
-for i in range(K+1):
-    distance[0][0][i] = 1
 
 bfs(K, W, H)
+for i in range(H):
+    print(distance[i])
 
 if sum(distance[H-1][W-1])==0:
     print(-1)
 else:
     answer = 999999
     for cnt in distance[H-1][W-1]:
-        if 0 < answer:
+        if 0 < cnt < answer :
             answer = cnt
     print(answer-1)
