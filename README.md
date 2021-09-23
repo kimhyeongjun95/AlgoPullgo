@@ -87,4 +87,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [토마토(7569)](https://www.acmicpc.net/problem/7569)
  
 - 9/26
+  - 백준 - [트리의 부모 찾기(11725)](https://www.acmicpc.net/problem/11725)
+  - 백준 - [연구소(14502)](https://www.acmicpc.net/problem/14502)
+
+## 9주차
   
