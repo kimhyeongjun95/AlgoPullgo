@@ -17,7 +17,7 @@ def bfs(arr):
         for dx, dy in dxy:
             nx, ny = x+dx, y+dy
 
-            if 0<= nx < N and 0 <= ny < M and arr[nx][ny] == 0 and not visited[nx][ny]:
+            if 0<= nx < N and 0 <= ny < M and not arr[nx][ny] and not visited[nx][ny]:
                 visited[nx][ny] = 1
                 arr[nx][ny] = 2
                 queue.append((nx, ny))
@@ -25,7 +25,13 @@ def bfs(arr):
     return arr
 
 
-def safe_area(arr, empty):
+def safe_area(lab, empty):
+    arr = [[0 for _ in range(M)] for _ in range(N)]
+
+    for i in range(N):
+        for j in range(M):
+            arr[i][j] = lab[i][j]
+
     for i, j in empty:
         arr[i][j] = 1
 
@@ -36,9 +42,6 @@ def safe_area(arr, empty):
         for l in range(M):
             if arr[k][l] == 0:
                 cnt += 1
-
-    for i, j in empty:
-        arr[i][j] = 0
 
     return cnt
 
