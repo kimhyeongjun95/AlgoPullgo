@@ -91,4 +91,14 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [연구소(14502)](https://www.acmicpc.net/problem/14502)
 
 ## 9주차
+
+- 9/26
+  - 백준 - [내리막 길(1520)](https://www.acmicpc.net/problem/1520)
+  - 백준 - [치킨 배달(15686)](https://www.acmicpc.net/problem/15686)
+
+- 9/30
+  - 백준 - [단어 수학(1339)](https://www.acmicpc.net/problem/1339)
+  - 백준 - [퇴사(14501)](https://www.acmicpc.net/problem/14501)
   
+## 10주차
+
