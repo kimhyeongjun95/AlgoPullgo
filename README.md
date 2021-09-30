@@ -66,6 +66,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [아기 상어(16236)](https://www.acmicpc.net/problem/16236)
   - 프로그래머스 - [키패드 누르기(2020 카카오 인턴십)](https://programmers.co.kr/learn/challenges)
 
+- 9/9
+  - 프로그래머스 월간 코드 챌린지 시즌 3 전원 참여
+
 - 9/10
   - 백준 - [최대 힙(11279)](https://www.acmicpc.net/problem/11279)
   - 백준 - [평범한 배낭(12865)](https://www.acmicpc.net/problem/12865)
