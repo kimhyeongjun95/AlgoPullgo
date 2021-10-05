@@ -13,7 +13,7 @@ for a in alphas:
                 total += 10**i
     lst.append(total)
 lst.sort(reverse=True)
-
+print(lst)
 num = 9
 ans = 0
 for item in lst:
