@@ -3,9 +3,6 @@
 # 알파벳 -> 숫자
 # 그 수의 합을 최대로 만드는 프로그램
 
-import sys
-input = sys.stdin.readline
-
 # 2
 # GCF
 # ACDEB
@@ -37,6 +34,7 @@ for number in numbers: # GCF, ACDEB...
     for i in number: # G/C/F , A/C/D/E/B...
         if i not in dict:
             # 10의 2승 = 100, 10의 1승 = 10, 10의 0승 = 1
+            # 'G':100, 'C':10, 'F':1
             dict[i] = pow(10, length) 
         else:
             dict[i] += pow(10, length)
@@ -44,7 +42,9 @@ for number in numbers: # GCF, ACDEB...
         length -= 1
 
 # sorted는 리스트를 반환
+print(dict)
 result = sorted(dict.values(), reverse=True)
+print(result)
 
 count = 9
 answer = 0
