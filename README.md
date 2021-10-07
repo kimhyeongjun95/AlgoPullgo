@@ -105,3 +105,14 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   
 ## 10주차
 
+- 10/5
+  - 백준 - [다리 놓기(1010)](https://www.acmicpc.net/problem/1010)
+  - 백준 - [노드사이의 거리(1240)](https://www.acmicpc.net/problem/1240)
+
+- 10/7
+  - 백준 - [세 용액(2473)](https://www.acmicpc.net/problem/2473)
+  - 백준 - [인구 이동(16234)](https://www.acmicpc.net/problem/16234)
+
+## 11주차
+
+- 10/12
