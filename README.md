@@ -116,8 +116,6 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 ## 11주차
 
 - 10/12
-
-  - 백준 - [로봇 청소기](https://www.acmicpc.net/problem/14503)
-
-  - 백준 - [게리맨더링](https://www.acmicpc.net/problem/17471)
+  - 백준 - [로봇 청소기(14503)](https://www.acmicpc.net/problem/14503)
+  - 백준 - [게리맨더링(17471)](https://www.acmicpc.net/problem/17471)
 
