@@ -120,4 +120,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [게리맨더링(17471)](https://www.acmicpc.net/problem/17471)
 
 - 10/14
+  - 백준 - [톱니바퀴(14891)](https://www.acmicpc.net/problem/14891)
+  - 백준 - [파이프 옮기기1(17070)](https://www.acmicpc.net/problem/17070)
+
+## 12주차
 
