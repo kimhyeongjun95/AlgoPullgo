@@ -1,5 +1,6 @@
 import sys
 from itertools import combinations
+# 같이 디버깅 해보지 않을래?? ㅎㅎ
 
 def dfs(n, list1):
     visited = [False for _ in range(N+1)]
@@ -13,7 +14,7 @@ def dfs(n, list1):
                 visited[i] = True
                 result.append(i)
     
-    if list(set(result)) == list1:
+    if list(set(result)) == list(list1):
         return True
     else:
         return False
@@ -41,14 +42,11 @@ result = float('inf')
 
 for i in powerset:
     i_flag = False
-    if len(i) == 1:
-        i_flag = True
+    for j in i:
+        if dfs(j, i) == False:
+            break
     else:
-        for j in i:
-            if dfs(j, i) == False:
-                break
-        else:
-            i_flag = True
+        i_flag = True
     if i_flag:
         i_minus = []
         for k in range(1, N+1):
@@ -59,9 +57,9 @@ for i in powerset:
         for j in i_minus:
             if dfs(j, i_minus) == False:
                 break
-            else:
-                i_minus_flag = True
-        
+        else:
+            i_minus_flag = True
+
         if i_minus_flag:
             temp1 = 0
             for j in i:
