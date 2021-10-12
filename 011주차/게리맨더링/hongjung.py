@@ -1,20 +1,18 @@
 import sys
 from itertools import combinations
-# 같이 디버깅 해보지 않을래?? ㅎㅎ
 
 def dfs(n, list1):
-    visited = [False for _ in range(N+1)]
+    visited = [0 for _ in range(N+1)]
     stack = [n]
-    result = [n]
+    visited[n] = 1
     while stack:
         x = stack.pop()
         for i in area[x]:
-            if visited[i] == False and i in list1:
+            if visited[i] == 0 and i in list1:
                 stack.append(i)
-                visited[i] = True
-                result.append(i)
+                visited[i] = 1
     
-    if list(set(result)) == list(list1):
+    if sum(visited) == len(list1):
         return True
     else:
         return False
@@ -42,11 +40,9 @@ result = float('inf')
 
 for i in powerset:
     i_flag = False
-    for j in i:
-        if dfs(j, i) == False:
-            break
-    else:
+    if dfs(i[0], i):
         i_flag = True
+
     if i_flag:
         i_minus = []
         for k in range(1, N+1):
@@ -54,10 +50,7 @@ for i in powerset:
                 i_minus.append(k)
 
         i_minus_flag = False
-        for j in i_minus:
-            if dfs(j, i_minus) == False:
-                break
-        else:
+        if dfs(i_minus[0], i_minus):
             i_minus_flag = True
 
         if i_minus_flag:
