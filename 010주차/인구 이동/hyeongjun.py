@@ -24,16 +24,12 @@ def spreader(temp):
         arr[x][y] = count // len(temp)
 
 def migration(i, j):
-    global happened
     union = False
     queue = deque([(i, j)])
-    count = 0
-    total = 0
     temp = []
+
     while queue:
         x, y = queue.popleft()
-        count += 1
-        total += arr[x][y]
         temp.append((x, y))
 
         for dx, dy in dxy:
@@ -41,17 +37,14 @@ def migration(i, j):
             ny = dy + y
             if -1 < nx < n and -1 < ny < n:
                 if l <= abs(arr[nx][ny]-arr[x][y]) <= r and not visited[nx][ny]:
-                    happened = True
                     union = True
                     visited[nx][ny] = 1
                     queue.append((nx, ny))
                     
-    return union, happened, temp
+    return union, temp
     
 n, l, r = map(int, input().split())
 arr = [list(map(int, input().split())) for _ in range(n)]
-happened = False
-places = [[0] * n for _ in range(n)]
 answer = 0
 
 while True:
@@ -61,16 +54,12 @@ while True:
         for j in range(n):
             if visited[i][j] == 0:
                 visited[i][j] = 1
-                union, happened, temp = migration(i, j)
+                union, temp = migration(i, j)
                 if union:
                     spreader(temp)
                     forth = True
     if not forth:
         break
-   
     answer += 1
 
-if happened:  
-    print(answer)
-else:
-    print(0)
+print(answer)
