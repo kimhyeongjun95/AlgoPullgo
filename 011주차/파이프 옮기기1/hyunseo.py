@@ -1,31 +1,5 @@
 # 백준 17070 파이프 옮기기 1 : dp
 
-def push_pipe(i, j, state):
-    if dp[i][j][state] == -1:
-        dp[i][j][state] = 0
-
-
-        # 대각선으로 이동
-        if i+1 <= N and j+1 <=N:
-            if not house[i][j+1] and not house[i+1][j] and not house[i+1][j+1]:
-                for s in range(3):
-                    dp[i][j][s] += push_pipe(i+1, j+1, 2)
-        
-        # 가로로 이동
-        if state != 1:
-            if j+1 <= N and not house[i][j+1]:
-                dp[i][j][0] += push_pipe(i, j+1, 0)
-                dp[i][j][2] += push_pipe(i, j+1, 0)
-        
-        # 세로로 이동
-        if state != 0:
-            if i+1 <= N and not house[i+1][j]:
-                dp[i][j][1] += push_pipe(i+1, j, 1)
-                dp[i][j][2] += push_pipe(i+1, j, 1)
-    
-    return dp[i][j][state]
-
-
 N = int(input())
 house = [[0 for _ in range(N+1)]]
 for _ in range(N):
