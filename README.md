@@ -129,3 +129,5 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [미세먼지 안녕!(17144)](https://www.acmicpc.net/problem/17144)
   - SWEA - [프로세서 연결하기(1767)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
 
+- 10/21
+
