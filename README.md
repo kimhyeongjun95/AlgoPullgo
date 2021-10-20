@@ -125,3 +125,12 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 ## 12주차
 
+- 10/19
+  - 백준 - [미세먼지 안녕!(17144)](https://www.acmicpc.net/problem/17144)
+  - SWEA - [프로세서 연결하기(1767)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf)
+
+- 10/21
+  - 백준 - [집합의 표현(1717)](https://www.acmicpc.net/problem/1717)
+  - 백준 - [최소 스패닝 트리(1197)](https://www.acmicpc.net/problem/1197)
+
+## 13주차
