@@ -1,6 +1,6 @@
 
 
-# AlgoPullgo 소개
+# AlgoPullgo
 
 SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
@@ -8,8 +8,27 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 - 전날 밤 12시까지 `.py` 파일 `github`에 `push`
 
+<br>
 
+## Member
 
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kimhyeongjun95"><img src="https://avatars.githubusercontent.com/u/86656921?v=4" width="100px;" alt=""/><br /><sub><b>HYEONGJUN</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hongjungkimm"><img src="https://avatars.githubusercontent.com/u/87457152?v=4" width="100px;" alt=""/><br /><sub><b>HONGJUNG</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/yeongsummer"><img src="https://avatars.githubusercontent.com/u/87457128?v=4" width="100px;" alt=""/><br /><sub><b>YEONGHA</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/woosteelz"><img src="https://avatars.githubusercontent.com/u/48507475?v=4" width="100px;" alt=""/><br /><sub><b>WOOCHEOL</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/hyunse0"><img src="https://avatars.githubusercontent.com/u/78924207?v=4" width="100px;" alt=""/><br /><sub><b>HYUNSEO</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/HeoBeom"><img src="https://avatars.githubusercontent.com/u/87457226?v=4" width="100px;" alt=""/><br /><sub><b>BEOM</b></sub></a><br /></td>
+  </tr>
+</table>
+
+<br>
+
+## 문제 목록 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+<details>
+  <summary> 열기 </summary>
+  
 ## 1주차
 
 - 8/2
@@ -134,3 +153,4 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [최소 스패닝 트리(1197)](https://www.acmicpc.net/problem/1197)
 
 ## 13주차
+</details>
