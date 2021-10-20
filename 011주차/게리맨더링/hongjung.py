@@ -37,6 +37,7 @@ powerset = []
 for i in range(1, N):
     for j in combinations(range(1, N+1), i):
         powerset.append(j)
+        print(j)
 
 result = float('inf')
 

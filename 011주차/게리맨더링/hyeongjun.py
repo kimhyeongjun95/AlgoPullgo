@@ -30,7 +30,7 @@ def hello(roamer):
             if i in roamer and visited[i] == 0:
                 visited[i] = 1
                 queue.append(i)
-    
+
     length = len([i for i in visited if i == 1])
     return total, length
 
@@ -48,10 +48,11 @@ for i in arr:
 result = float('inf')
 result_base = float('inf')
 # 선거구가 2개로 나눠지기에 n//2+1 까지만 확인
-for i in range(1, (n//2)+1):
+for i in range(1, (n//2)+1): # i = 1, 2, 3
     combos = list(combinations(range(1, n+1), i))
     for combo in combos:
         combo2 = [i for i in range(1, n+1) if i not in combo]
+        print(combo, combo2)
         count1, len1 = hello(combo)
         count2, len2 = hello(combo2)
         if len1 + len2 == n:
