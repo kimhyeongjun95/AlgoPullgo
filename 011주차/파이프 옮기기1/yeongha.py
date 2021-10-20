@@ -21,5 +21,7 @@ def dfs(x,y,d):
 N = int(input())
 matrix = [list(map(int, input().split())) for _ in range(N)]
 dp = [[[-1]*3 for _ in range(N)] for _ in range(N)]
+for i in range(N):
+    print(dp[i])
 dfs(0,1,0)
 print(dp[0][1][0])
