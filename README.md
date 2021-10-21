@@ -154,8 +154,10 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 ## 13주차
 
-- 10/21
+- 10/26
   - 백준 - [1로 만들기(1463)](https://www.acmicpc.net/problem/1463)
   - 백준 - [뱀(3190)](https://www.acmicpc.net/problem/3190)
+  
+- 10/28
   
 </details>
