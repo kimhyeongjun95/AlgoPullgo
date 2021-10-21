@@ -153,4 +153,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [최소 스패닝 트리(1197)](https://www.acmicpc.net/problem/1197)
 
 ## 13주차
+
+- 10/21
+  - 백준 - [1로 만들기(1463)](https://www.acmicpc.net/problem/1463)
+  - 백준 - [뱀(3190)](https://www.acmicpc.net/problem/3190)
+  
 </details>
