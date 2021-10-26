@@ -28,3 +28,5 @@ for _ in range(m):
         else:
             parents[set_a] = set_b
             ranks[set_b] += 1
+    
+    print(ranks)

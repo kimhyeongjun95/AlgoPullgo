@@ -11,7 +11,7 @@ def finder(parent, x):
 
     # if parent[x] != x:
     #     return finder(parent, parent[x])
-    # return
+    # return x
 
     # 위에보다 빠름
     # 루트 노드가 아니라면, 루트 노드를 찾을 때까지
