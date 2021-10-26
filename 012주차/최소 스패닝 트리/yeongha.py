@@ -18,6 +18,7 @@ def find_MST(s):
                 if not visited[edge[1]]:
                     heapq.heappush(candidate, edge)
 
+
 V, E = map(int, input().split())
 edges = defaultdict(list)
 for _ in range(E):
