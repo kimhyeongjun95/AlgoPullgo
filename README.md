@@ -159,5 +159,10 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [뱀(3190)](https://www.acmicpc.net/problem/3190)
   
 - 10/28
+  - 백준 - [줄어들지 않아(2688)](https://www.acmicpc.net/problem/2688)
+  - 백준 - [마법사 상어와 토네이도(20057)](https://www.acmicpc.net/problem/20057)
+ 
+## 14주차
   
+  - 11/2
 </details>
