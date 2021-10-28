@@ -165,4 +165,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 ## 14주차
   
   - 11/2
+    - 백준 - [전화번호 목록(5052)](https://www.acmicpc.net/problem/5052)
+    - 백준 - [빗물(14719)](https://www.acmicpc.net/problem/14719)
+  
+  - 11/4
+  
 </details>
