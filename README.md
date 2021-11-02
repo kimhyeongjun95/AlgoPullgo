@@ -169,5 +169,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 백준 - [빗물(14719)](https://www.acmicpc.net/problem/14719)
   
   - 11/4
+    - 프로그래머스 - [문자열 압축(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/challenges)
+    - 프로그래머스 - [타겟 넘버(깊이/너비 우선 탐색)](https://programmers.co.kr/learn/challenges)
+  
+## 15주차
   
 </details>
