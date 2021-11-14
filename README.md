@@ -28,7 +28,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 ## 문제 목록 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 <details>
   <summary> 열기 </summary>
-  
+
 ## 1주차
 
 - 8/2
@@ -161,9 +161,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 10/28
   - 백준 - [줄어들지 않아(2688)](https://www.acmicpc.net/problem/2688)
   - 백준 - [마법사 상어와 토네이도(20057)](https://www.acmicpc.net/problem/20057)
- 
+
 ## 14주차
-  
+
   - 11/2
     - 백준 - [전화번호 목록(5052)](https://www.acmicpc.net/problem/5052)
     - 백준 - [빗물(14719)](https://www.acmicpc.net/problem/14719)
@@ -171,10 +171,14 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 11/4
     - 프로그래머스 - [문자열 압축(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/challenges)
     - 프로그래머스 - [타겟 넘버(깊이/너비 우선 탐색)](https://programmers.co.kr/learn/challenges)
-  
+
 ## 15주차
-  
+
   - 11/9 ~ 11/11 휴식 및 프로젝트 준비 기간
-  
+
 ## 16주차
+- 11/16
+  - 프로그래머스 - [전력망을 둘로 나누기(위클리 챌린지)](https://programmers.co.kr/learn/courses/30/lessons/86971)
+  - 프로그래머스 - [수식최대화(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67257)
+
 </details>
