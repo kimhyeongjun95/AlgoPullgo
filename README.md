@@ -180,5 +180,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 11/16
   - 프로그래머스 - [전력망을 둘로 나누기(위클리 챌린지)](https://programmers.co.kr/learn/courses/30/lessons/86971)
   - 프로그래머스 - [수식최대화(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67257)
+- 11/18
+  - 프로그래머스 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+  - 프로그래머스 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
 </details>
+
