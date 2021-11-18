@@ -31,3 +31,8 @@ def solution(s):
             answer = temp_result
             
     return answer
+
+print(solution('aabbaccc'))
+print(solution('ababcdcdababcdcd'))
+print(solution('abcabcdede'))
+print(solution('abcabcabcabcdededededede'))
