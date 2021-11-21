@@ -177,12 +177,21 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 11/9 ~ 11/11 휴식 및 프로젝트 준비 기간
 
 ## 16주차
-- 11/16
-  - 프로그래머스 - [전력망을 둘로 나누기(위클리 챌린지)](https://programmers.co.kr/learn/courses/30/lessons/86971)
-  - 프로그래머스 - [수식최대화(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67257)
-- 11/18
-  - 프로그래머스 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
-  - 프로그래머스 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
+  
+  - 11/16
+    - 프로그래머스 - [전력망을 둘로 나누기(위클리 챌린지)](https://programmers.co.kr/learn/courses/30/lessons/86971)
+    - 프로그래머스 - [수식최대화(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67257)
+  
+  - 11/18
+    - 프로그래머스 - [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)
+    - 프로그래머스 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
+ ## 17주차
+  
+  - 11/25
+    - 백준 - [연산자 끼워넣기(14888)](https://www.acmicpc.net/problem/14888)
+    - 프로그래머스 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+  
+  - **
 </details>
 
