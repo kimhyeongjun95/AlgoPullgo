@@ -188,7 +188,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
  ## 17주차
   
-  - 11/25
+   - 11/23 ~ 11/25 휴식 및 프로젝트 준비 기간
+  
+ ## 18주차
+  
+  - 12/2
     - 백준 - [연산자 끼워넣기(14888)](https://www.acmicpc.net/problem/14888)
     - 프로그래머스 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
   
