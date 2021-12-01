@@ -1,5 +1,3 @@
-from collections import deque
-
 def solution(number, k):
     number = list(map(str, number))
 
