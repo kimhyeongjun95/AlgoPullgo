@@ -26,7 +26,6 @@ for i in range(h):
         if not flag and world[j][i] == 1:
             flag = True
             
-
         elif flag and world[j][i] == 0:
             count += 1
 
