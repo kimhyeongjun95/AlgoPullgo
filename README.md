@@ -196,6 +196,12 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 백준 - [연산자 끼워넣기(14888)](https://www.acmicpc.net/problem/14888)
     - 프로그래머스 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
   
-  - **
+ ## 19주차
+  
+  - 12/7
+    - 백준 - [내려가기(2096)](https://www.acmicpc.net/problem/2096)
+    - 프로그래머스 - [불량 사용자(2019 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/64064?language=python3)
+  
+  - 12/9
 </details>
 
