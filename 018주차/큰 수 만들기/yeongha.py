@@ -13,4 +13,4 @@ def solution(number, k):
         new.append(m)
         k += 1
         
-    return "".join(map(str,new))
+    return "".join(new)
