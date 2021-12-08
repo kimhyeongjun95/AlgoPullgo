@@ -28,7 +28,7 @@ def solution(user_id, banned_id):
     find_list = []
     for bad_id in banned_id:
         find_list.append(find(bad_id))
-
+    print(find_list)
     result = []
     make([], 0)
     return len(set(result))
