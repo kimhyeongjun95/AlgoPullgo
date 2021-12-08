@@ -10,7 +10,6 @@ def solution(n, edge):
     
     def bfs():
         nonlocal result
-        result = [0] * (n + 1)
         queue = deque([[1, 0]])
         visited = [False] * (n + 1)
         visited[1] = True
