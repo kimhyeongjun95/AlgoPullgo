@@ -24,7 +24,7 @@ def solution(n, edge):
                     queue.append([i, dist + 1])
                     visited[i] = True
 
-    result = []
+    result = [0] * (n + 1)
     bfs()
     max_result = max(result)
     answer = result.count(max_result)
