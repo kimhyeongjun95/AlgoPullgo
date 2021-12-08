@@ -203,5 +203,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [불량 사용자(2019 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/64064?language=python3)
   
   - 12/9
+    - 프로그래머스 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    - 프로그래머스 - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
+ 
+# 20주차
+ 
+  - 12/14
 </details>
-
+  
