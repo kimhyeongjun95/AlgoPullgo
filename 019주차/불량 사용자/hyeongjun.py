@@ -26,17 +26,8 @@ def solution(user_id, banned_id):
             permut = set(permut)
             if permut not in result:
                 result.append(permut)
-    
+
     return len(result)
-
-
-    
-                    
-
-
-
-    
-
 
 print(solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["fr*d*", "abc1**"])) # 2
 print(solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["*rodo", "*rodo", "******"])) # '2'
