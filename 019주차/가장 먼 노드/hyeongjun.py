@@ -17,7 +17,6 @@ def bfs(nodes, n):
     return visited
 
 def solution(n, edge):
-    global visited
     nodes = [[] for _ in range(n+1)]
     for one, two in edge:
         nodes[one].append(two)
