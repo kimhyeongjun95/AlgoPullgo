@@ -11,26 +11,27 @@ def solution(rows, columns, queries):
         arr.append(temp)
     
     answer = []
+    # 시계방향 회전
     for x1, y1, x2, y2 in queries:
         temp = arr[x1-1][y1-1]
         min_number = temp
 
-        for i in range(x1-1,x2-1):
+        for i in range(x1-1, x2-1):
             swipe = arr[i+1][y1-1]
             arr[i][y1-1] = swipe
             min_number = min(min_number, swipe)
 
-        for i in range(y1-1,y2-1):
+        for i in range(y1-1, y2-1):
             swipe = arr[x2-1][i+1]
             arr[x2-1][i] = swipe
             min_number = min(min_number, swipe)
 
-        for i in range(x2-1,x1-1,-1):
+        for i in range(x2-1, x1-1,-1):
             swipe = arr[i-1][y2-1]
             arr[i][y2-1] = swipe
             min_number = min(min_number, swipe)
 
-        for i in range(y2-1,y1-1,-1):
+        for i in range(y2-1, y1-1,-1):
             swipe = arr[x1-1][i-1]
             arr[x1-1][i] = swipe
             min_number = min(min_number, swipe)
