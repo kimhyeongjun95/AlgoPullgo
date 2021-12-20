@@ -221,6 +221,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
   
   - 12/22
+    - 프로그래머스 - [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
+    - 프로그래머스 - [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
+  
+## 22주차
+  - 12/27
   
 </details>
   
