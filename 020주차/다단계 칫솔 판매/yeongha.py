@@ -3,6 +3,7 @@ def solution(enroll, referral, seller, amount):
     dict = {}
     for i, e in enumerate(enroll):
         dict[e] = i
+
     for s, a in zip(seller, amount):
         m = a * 100
         while s != "-" and m > 0:
@@ -10,6 +11,7 @@ def solution(enroll, referral, seller, amount):
             money[idx] += m - m//10
             m //= 10
             s = referral[idx]
+            
     return money
 
 enroll = ["john", "mary", "edward", "sam", "emily", "jaimie", "tod", "young"]
