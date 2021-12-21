@@ -7,6 +7,7 @@ def solution(begin, target, words):
         
         if word == target:
             answer = min(answer, n)
+            return
 
         for i in range(len(words)):
             cnt = 0

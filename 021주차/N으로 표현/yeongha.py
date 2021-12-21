@@ -20,8 +20,7 @@ def solution(N, number):
             answer = i
             break
 
-        dp.append(all_case)
-        print(dp)       
+        dp.append(all_case)   
     return answer
 
 N = 5
