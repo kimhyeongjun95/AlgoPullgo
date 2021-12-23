@@ -226,6 +226,10 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   
 ## 22주차
   - 12/27
+    - 프로그래머스 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+    - 프로그래머스 - [표 편집](https://programmers.co.kr/learn/courses/30/lessons/81303)
+
+## 23주차
   
 </details>
   
