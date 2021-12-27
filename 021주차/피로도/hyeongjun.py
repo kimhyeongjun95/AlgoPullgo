@@ -6,8 +6,9 @@
 
 from itertools import permutations
 def solution(k, dungeons):
+
     answer = 0
-    for per in list(permutations(dungeons, len(dungeons))):
+    for per in permutations(dungeons, len(dungeons)):
         count = 0
         energy = k
         for least, cost in per:
@@ -17,4 +18,5 @@ def solution(k, dungeons):
             count += 1
         answer = max(answer, count)
     return answer
+
 print(solution(80, [[80,20],[50,40],[30,10]])) # 3
