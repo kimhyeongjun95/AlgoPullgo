@@ -230,6 +230,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [표 편집(2021 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/81303)
 
 ## 23주차
+  - 1/4
+    - 프로그래머스 - [보석 쇼핑(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67258)
+    - 프로그래머스 - [오픈 채팅방(2019 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/42888)
   
 </details>
   
