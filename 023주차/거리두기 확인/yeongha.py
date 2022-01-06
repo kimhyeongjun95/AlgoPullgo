@@ -7,7 +7,7 @@ def bfs(room, x, y):
     
     while deq:
         x, y, d = deq.popleft()
-        visited[x][y] = True
+        visited[x][y] = 1
         
         for dx, dy in dxy:
             nx = x + dx
@@ -15,7 +15,7 @@ def bfs(room, x, y):
             nd = d + 1
 
             if 0 <= nx < 5 and 0 <= ny < 5 and not visited[nx][ny]:
-                visited[nx][ny] = True
+                visited[nx][ny] = 1
                 
                 if room[nx][ny] == 'P':
                     if nd <= 2:

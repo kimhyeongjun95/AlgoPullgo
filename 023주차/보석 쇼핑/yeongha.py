@@ -20,7 +20,7 @@ def solution(gems):
             start += 1
 
         if flag:
-            if len(dict.keys()) == unique_l:
+            if len(dict) == unique_l:
                 short = end-start+1
                 answer = [start+1, end+1]
                 flag = False
