@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 def solution(gems):
     answer = []
     l = len(gems)
