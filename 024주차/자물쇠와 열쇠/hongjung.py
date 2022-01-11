@@ -1,4 +1,3 @@
-# 테케 3개 틀림
 def solution(key, lock):
     def rotate_90_degree(list1):
         n = len(list1)
@@ -33,7 +32,13 @@ def solution(key, lock):
     rotate_90 = rotate_90_degree(key)
     rotate_180 = rotate_90_degree(rotate_90)
     rotate_270 = rotate_90_degree(rotate_180)
+    n = len(lock)
     for k in [key, rotate_90, rotate_180, rotate_270]:
+        while len(k) < n:
+            k.append([0] * n)
+        for i in k:
+            while len(i) < n:
+                i.append(0)
         if is_True(k, lock):
             return True
     return False
