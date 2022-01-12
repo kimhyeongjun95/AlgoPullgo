@@ -244,5 +244,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
   
   - 1/13
+    - 프로그래머스 - [합승 택시 요금(2021 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/72413)
+    - 프로그래머스 - [외벽 점검(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/60062)
+
+  ## 25
 </details>
   
