@@ -175,9 +175,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 ## 15주차
 
   - 11/9 ~ 11/11 휴식 및 프로젝트 준비 기간
-  
+
 ## 16주차
-  
+
   - 11/16
     - 프로그래머스 - [전력망을 둘로 나누기(위클리 챌린지)](https://programmers.co.kr/learn/courses/30/lessons/86971)
     - 프로그래머스 - [수식최대화(2020 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/67257)
@@ -187,17 +187,17 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)
 
  ## 17주차
-  
+
    - 11/23 ~ 11/25 휴식 및 프로젝트 준비 기간
-  
+
  ## 18주차
-  
+
   - 12/2
     - 백준 - [연산자 끼워넣기(14888)](https://www.acmicpc.net/problem/14888)
     - 프로그래머스 - [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
-  
+
  ## 19주차
-  
+
   - 12/7
     - 백준 - [내려가기(2096)](https://www.acmicpc.net/problem/2096)
     - 프로그래머스 - [불량 사용자(2019 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/64064?language=python3)
@@ -205,7 +205,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 12/9
     - 프로그래머스 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
     - 프로그래머스 - [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)
- 
+
 ## 20주차
   - 12/14
     - 프로그래머스 - [행렬 테두리 회전하기(2021 Dev-Matching)](https://programmers.co.kr/learn/courses/30/lessons/77485)
@@ -214,7 +214,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 12/16
     - 프로그래머스 - [배달](https://programmers.co.kr/learn/courses/30/lessons/12978)
     - 프로그래머스 - [다단계 칫솔 판매(2021 Dev-Matching)](https://programmers.co.kr/learn/courses/30/lessons/77486)
- 
+
 ## 21주차
   - 12/20
     - 프로그래머스 - [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895)
@@ -223,7 +223,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 12/22
     - 프로그래머스 - [야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927)
     - 프로그래머스 - [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)
-  
+
 ## 22주차
   - 12/27
     - 프로그래머스 - [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
@@ -237,7 +237,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 1/6
     - 프로그래머스 - [숫자 문자열과 영단어(2021 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/81301)
     - 프로그래머스 - [거리두기 확인(2021 카카오 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/81302)
- 
+
 ## 24주차
   - 1/11
     - 프로그래머스 - [자물쇠와 열쇠(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/60059)
@@ -247,6 +247,10 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [합승 택시 요금(2021 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/72413)
     - 프로그래머스 - [외벽 점검(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/60062)
 
-  ## 25
+  ## 25주차
+
+- 1/18
+  - 프로그래머스 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+
 </details>
-  
+
