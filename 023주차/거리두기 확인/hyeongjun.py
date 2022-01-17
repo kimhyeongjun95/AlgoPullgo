@@ -32,10 +32,8 @@ def check(places, i, j, k):
                         stack.append((nx, ny, nc))
                     elif places[i][nx][ny] == 'P' and nc > 0:
                         return False
-
     return True
         
-
 def solution(places):
     answer = []
     for i in range(len(places)):

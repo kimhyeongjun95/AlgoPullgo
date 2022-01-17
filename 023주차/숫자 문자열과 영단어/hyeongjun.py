@@ -16,7 +16,7 @@ def solution(s):
     }
     for i in s:
         if i.isnumeric():
-            answer += str(i)
+            answer += i
         else:
             temp += i
         
