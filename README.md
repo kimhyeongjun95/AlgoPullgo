@@ -251,14 +251,14 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 - 1/18
   - 프로그래머스 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
+  
 - 1/20
   - 프로그래머스 - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)
-  - 프로그래머스 - [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335?language=python3)
+  - 프로그래머스 - [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)
 
 ## 26주차
 
 - 1/25
-  - 
 
 </details>
 
