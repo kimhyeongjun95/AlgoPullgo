@@ -20,6 +20,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     <td align="center"><a href="https://github.com/woosteelz"><img src="https://avatars.githubusercontent.com/u/48507475?v=4" width="100px;" alt=""/><br /><sub><b>WOOCHEOL</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/hyunse0"><img src="https://avatars.githubusercontent.com/u/78924207?v=4" width="100px;" alt=""/><br /><sub><b>HYUNSEO</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/HeoBeom"><img src="https://avatars.githubusercontent.com/u/87457226?v=4" width="100px;" alt=""/><br /><sub><b>BEOM</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/DongKyunJung"><img src="https://avatars.githubusercontent.com/u/87457171?v=4" width="100px;" alt=""/><br /><sub><b></b></sub></a><br /></td>
   </tr>
 </table>
 
