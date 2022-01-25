@@ -40,7 +40,6 @@ def is_prime(number):
 def solution(n, k):
     string = change_number(n, k)
     
-    temp = ''
     answer = 0
     for number in string.split('0'):
         if number and is_prime(int(number)):
