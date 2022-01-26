@@ -248,7 +248,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 프로그래머스 - [합승 택시 요금(2021 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/72413)
     - 프로그래머스 - [외벽 점검(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/60062)
 
-  ## 25주차
+## 25주차
 
 - 1/18
   - 프로그래머스 - [가장 긴 팰린드롬](https://programmers.co.kr/learn/courses/30/lessons/12904)
@@ -264,7 +264,10 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 프로그래머스 - [2xn 타일링](https://programmers.co.kr/learn/courses/30/lessons/12900)
   
 - 1/27
+  - 프로그래머스 - [주차 요금 계산(2022 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/92341)
+  - 프로그래머스 - [게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)
   
-
+## 27주차
+  
 </details>
 
