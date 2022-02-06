@@ -273,4 +273,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 프로그래머스 - [징검다리 건너기(2019 카카오 개발자 겨울 인턴십)](https://programmers.co.kr/learn/courses/30/lessons/64062)
   - 프로그래머스 - [아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694)
 
+## 28주차
 
+- 2/8
+  - 프로그래머스 - [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
+  - 프로그래머스 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
