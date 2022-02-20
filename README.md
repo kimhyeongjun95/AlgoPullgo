@@ -2,6 +2,8 @@
 
 # AlgoPullgo
 
+![algopullgo](https://user-images.githubusercontent.com/78924207/154836023-01b28287-27d1-48f9-b70e-267ad400648f.jpg)
+
 SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 - 매주 화요일/목요일 21시 zoom 스터디
