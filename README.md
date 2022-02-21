@@ -280,3 +280,13 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 2/8
   - 프로그래머스 - [광고삽입](https://programmers.co.kr/learn/courses/30/lessons/72414)
   - 프로그래머스 - [메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)
+
+## 29주차
+
+- 2/15 ~ 2/17 공통 프로젝트 준비 기간
+
+## 30주차
+
+- 2/22
+  - 프로그래머스 - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3)
+  - 프로그래머스 - [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
