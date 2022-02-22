@@ -43,6 +43,7 @@ def solution(orders, course):
         for order in orders:
             combo = combinations(sorted(order), c)
             temp += combo
+        
         flag = Counter(temp)
 
         if flag:
