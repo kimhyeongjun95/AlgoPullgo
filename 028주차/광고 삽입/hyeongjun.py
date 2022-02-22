@@ -53,7 +53,7 @@ def solution(orders, course):
                     if val == max_value:
                         answer.append(''.join(key))
     answer.sort()
-    return answer
+    return answer 
 
 print(solution(["ABCFG", "AC", "CDE", "ACDE", "BCFG", "ACDEH"], [2,3,4]))
 # # ["AC", "ACDE", "BCFG", "CDE"]
