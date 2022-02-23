@@ -290,3 +290,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 2/22
   - 프로그래머스 - [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884?language=python3)
   - 프로그래머스 - [삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)
+  
+- 2/24
+  - 백준 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+  - 프로그래머스 - [N-QUEEN](https://programmers.co.kr/learn/courses/30/lessons/12952)
