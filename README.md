@@ -294,3 +294,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 2/24
   - 백준 - [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
   - 프로그래머스 - [N-QUEEN](https://programmers.co.kr/learn/courses/30/lessons/12952)
+
+## 31주차
+  
+- 3/1
+  - 백준 - [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+  - 백준 - [상어 초등학교](https://www.acmicpc.net/problem/21608)
