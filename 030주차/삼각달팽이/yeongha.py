@@ -6,7 +6,7 @@ def solution(n):
     i = 1
     temp = n
     m = temp
-    while i < n*(n+1)//2+1:
+    while i <= n*(n+1)//2:
         if not m:
             temp -= 1
             m = temp
