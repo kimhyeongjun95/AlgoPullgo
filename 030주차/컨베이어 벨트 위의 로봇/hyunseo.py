@@ -8,9 +8,10 @@ answer = 0
 
 while powers.count(0) < K:
     answer += 1
-
+    print(answer)
     # 1
     powers.appendleft(powers.pop())
+    print('1:', robots)
 
     if robots:
         temp = []
@@ -19,7 +20,7 @@ while powers.count(0) < K:
                 temp.append(robot + 1)
         robots = temp
     
-    
+    print('2:',robots)
     # 2
     if robots:
         temp = []
@@ -30,10 +31,9 @@ while powers.count(0) < K:
                 if robot != N - 2:
                     temp.append(robot + 1)
         robots = temp
-    
+    print('3:',robots)
     # 3
     if powers[0] > 0:
         powers[0] -= 1
         robots.append(0)
-
 print(answer)
