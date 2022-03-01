@@ -32,7 +32,7 @@ while powers.count(0) < K:
         robots = temp
     
     # 3
-    if powers[0] > 0 and 0 not in robots:
+    if powers[0] > 0:
         powers[0] -= 1
         robots.append(0)
 
