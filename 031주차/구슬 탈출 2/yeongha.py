@@ -18,7 +18,7 @@ def bfs(B_start, R_start):
                 B_nx, B_ny = B_nx + dx, B_ny + dy
                 if (B_nx, B_ny) == hole:
                     flag = True
-                    continue
+                    break
                 if board[B_nx][B_ny] == '#':
                     B_nx, B_ny = B_nx - dx, B_ny - dy
                     break
