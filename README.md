@@ -304,3 +304,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 3/3
   - 백준 - [주사위 굴리기](https://www.acmicpc.net/problem/14499)
   - 프로그래머스 - [캐시(2018 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/17680)
+
+## 32주차
+  
+- 3/8
+  - 백준 - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
