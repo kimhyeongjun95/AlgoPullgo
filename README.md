@@ -309,4 +309,4 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   
 - 3/8
   - 백준 - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
-  - 백준 = [다리 만들기](https://www.acmicpc.net/problem/2146)
+  - 백준 - [다리 만들기](https://www.acmicpc.net/problem/2146)
