@@ -25,6 +25,7 @@
 
 from collections import deque
 from collections import defaultdict
+
 # 1~8 왼쪽부터 시계방향
 # ←, ↖, ↑, ↗, →, ↘, ↓, ↙
 dxy = [(0, -1), (-1, -1), (-1, 0), (-1, 1), (0, 1), (1, 1), (1, 0), (1, -1)]
