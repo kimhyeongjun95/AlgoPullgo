@@ -79,11 +79,11 @@ def dfs(x, y):
     stack = [(x, y)]
     count = 1
     visited = [[0] * m for _ in range(n)]
-    visited[x][y] =1
+    visited[x][y] = 1
 
     while stack:
         x, y = stack.pop()
-
+        
         for dx, dy in dxy:
             nx = x + dx
             ny = y + dy
@@ -107,10 +107,9 @@ def toMove(i, j):
         # 1. 칸이 없으면 반대로
         if nx < 0 or nx >= n or ny < 0 or ny >= m:
             dir = (dir + 2) % 4
-            # print('방향전환-------------', nx, ny, dir)
             nx = x + dxy[dir][0]
             ny = y + dxy[dir][1]
-        # print(nx, ny, dir)
+
         dice = rotate(dice, dir)
         # 2.
         count = dfs(nx, ny)
