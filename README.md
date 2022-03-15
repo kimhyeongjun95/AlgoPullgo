@@ -320,3 +320,6 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 3/15
   - 백준 - [2048(easy)](https://www.acmicpc.net/problem/12100)
   - 프로그래머스 - [후보키(2019 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/42890)
+  
+- 3/17
+  - 프로그래머스 - [순위 검색(2021 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/72412)
