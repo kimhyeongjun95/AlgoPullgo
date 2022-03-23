@@ -324,3 +324,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 3/17
   - 백준 - [청소년 상어](https://www.acmicpc.net/problem/19236)
   - 프로그래머스 - [순위 검색(2021 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/72412)
+  
+## 34주차
+  
+- 3/24
+  - 프로그래머스 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+  - 프로그래머스 - [뉴스 클러스터링(2018 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/17677)
