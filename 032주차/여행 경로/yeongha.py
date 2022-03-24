@@ -22,8 +22,8 @@ def dfs(tickets, l):
 def solution(tickets):
     l = len(tickets)
     cand = dfs(tickets, l)
-    asnwer = sorted(cand)[0]
-    return asnwer
+    answer = sorted(cand)[0]
+    return answer
     
 
 tickets = [["ICN", "SFO"], ["ICN", "ATL"], ["SFO", "ATL"], ["ATL", "ICN"], ["ATL","SFO"]]
