@@ -330,3 +330,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 3/24
   - 프로그래머스 - [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
   - 프로그래머스 - [뉴스 클러스터링(2018 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/17677)
+  
+## 35주차
+  
+- 3/25
+  - 백준 - [스도쿠](https://www.acmicpc.net/problem/2580)
+  - 프로그래머스 - [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
