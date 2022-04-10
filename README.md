@@ -342,4 +342,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 4/7
   - 프로그래머스 - [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
   - 프로그래머스 - [기둥과 보 설치(2020 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/60061)
+  
+## 37주차
+  
+ - 4/12
+  - 백준 - [치즈](https://www.acmicpc.net/problem/2638)
+  - 프로그래머스 - [방금그곡(2018 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/17683)
+  
 
