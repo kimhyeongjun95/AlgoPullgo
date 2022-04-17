@@ -18,18 +18,19 @@
 
 dxy = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
-def outair(arr):
-    # 1-1
-    stack = []
-    for i in range(n):
-        for j in range(m):
-            if arr[i][j] == 0:
-                stack.append((i, j))
-                return stack
+# def outair(arr):
+#     # 1-1
+#     stack = []
+#     for i in range(n):
+#         for j in range(m):
+#             if arr[i][j] == 0:
+#                 stack.append((i, j))
+#                 return stack
 
 def outer(arr):
     # 차라리 그냥 0,0으로 시작했으면 됐을듯?
-    stack = outair(arr)
+    # stack = outair(arr)
+    stack = [(0, 0)]
     while stack:
         x, y = stack.pop()
 
