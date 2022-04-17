@@ -345,11 +345,11 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   
 ## 37주차
   
- - 4/12
+- 4/12
   - 백준 - [치즈](https://www.acmicpc.net/problem/2638)
   - 프로그래머스 - [방금그곡(2018 카카오 블라인드 채용)](https://programmers.co.kr/learn/courses/30/lessons/17683)
   
- - 4/17
+- 4/17
   - 백준 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
   - 프로그래머스 - [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)
 
