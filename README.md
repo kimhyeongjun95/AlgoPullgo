@@ -353,3 +353,8 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
   - 백준 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
   - 프로그래머스 - [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)
 
+## 38주차
+  
+- 4/19
+  - 백준 - [암호 만들기](https://www.acmicpc.net/problem/1759)
+  - 백준 - [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
