@@ -10,7 +10,6 @@
 
 from collections import defaultdict, deque
 
-
 def dfs(queue, sheep, wolf):
     global answer
     answer = max(sheep, answer)
@@ -33,14 +32,13 @@ def dfs(queue, sheep, wolf):
                 dfs(queue, sheep, wolf + 1)
                 for j in trees[popped]:
                     queue.pop()
-            
         queue.append(popped)
 
 
 def solution(info, edges):
-    global answer, infos, trees
-    answer = 0
+    global answer, trees, infos
     infos = info
+    answer = 0
     trees = defaultdict(list)
     for one, two in edges:
         trees[one].append(two)
