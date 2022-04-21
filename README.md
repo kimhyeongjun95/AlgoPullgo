@@ -358,3 +358,7 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 4/19
   - 백준 - [암호 만들기](https://www.acmicpc.net/problem/1759)
   - 백준 - [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)
+    
+- 4/21
+  - 백준 - [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485)
+  - 프로그래머스 - [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987)
