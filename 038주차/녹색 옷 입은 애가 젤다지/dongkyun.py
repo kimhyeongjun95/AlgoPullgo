@@ -1,31 +1,36 @@
 import sys
+from collections import deque
+
 sys.stdin = open('input.txt')
 
-def jegu(y,x,k):
-    global min_k
-    if y == N-1 and x == N-1:
-        if min_k > k:
-            min_k = k
-        return
+i = 0
+while True:
 
-    dxy = [(1,0), (0,1), (0,-1), (-1,0)]
-    for dx,dy in dxy:
-        if 0 <= x+dx < N and 0 <= y+dy < N and visited[y+dy][x+dx] == 0:
-            visited[y+dy][x+dx] = 1
-            jegu(y+dy, x+dx, k+box[y+dy][x+dx])
-            visited[y+dy][x+dx] = 0
-
-
-T = int(input())
-
-for tc in range(1, T+1):
     N = int(input())
-    box = []
+    if N:
+        i += 1
+        box = []
 
-    visited = [[0] * N for _ in range(N)]
-    for _ in range(N):
-        box.append(list(map(int,input().split())))
-    min_k = 1216549876455613
-    visited[0][0] = 1
-    jegu(0, 0, box[0][0])
-    print(min_k)
+        visited = [[False] * N for _ in range(N)]
+        score = [[99999] * N for _ in range(N)]
+
+        for _ in range(N):
+            box.append(list(map(int,input().split())))
+        score[0][0] = box[0][0]
+        q = deque()
+        q.append((0,0))
+
+        while q:
+            b, a = q.popleft()
+            visited[0][0] = True
+
+            dxy = [(1, 0), (0, 1),(0, -1),(-1, 0)]
+            for dx, dy in dxy:
+                if 0 <= b+dy < N and 0 <= a+dx < N and visited[b+dy][a+dx] == 0:
+                    if score[b+dy][a+dx] > box[b+dy][a+dx] + score[b][a]:
+                        score[b+dy][a+dx] = box[b+dy][a+dx] + score[b][a]
+                        q.append((b+dy, a+dx))
+        print('Problem {} : {}'.format(i, score[N-1][N-1]))
+    elif N == 0:
+        break
+
