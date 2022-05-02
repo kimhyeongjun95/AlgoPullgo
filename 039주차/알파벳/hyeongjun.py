@@ -42,10 +42,10 @@ def bfs():
             if -1 < nx < r and -1 < ny < c:
                 if (arr[nx][ny] not in count):
                     check.add((nx, ny, count + arr[nx][ny]))
-                    answer = max(answer,len(count) +1)
+                    answer = max(answer, len(count) + 1)
 
 r, c = map(int, sys.stdin.readline().split())
 arr = [list(sys.stdin.readline().strip()) for _ in range(r)]
-answer = 0
+answer = 1
 bfs()
 print(answer)
