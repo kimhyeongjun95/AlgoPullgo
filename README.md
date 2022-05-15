@@ -378,7 +378,9 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
     - 백준 - [레이저 통신](https://www.acmicpc.net/problem/6087)
     - 프로그래머스 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
   
- ## 41주차
-  - 5/9
+ ## 42주차
+  - 5/16
     - 백준 - [경쟁적 전염](https://www.acmicpc.net/problem/18405)
     - 프로그래머스 - [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
+    - 백준 - [앱](https://www.acmicpc.net/problem/7579)
+    - 프로그래머스 - [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391?language=python3)
