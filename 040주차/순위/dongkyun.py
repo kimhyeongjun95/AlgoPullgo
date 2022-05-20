@@ -18,6 +18,7 @@ def solution(n, results):
                     winner[l].append(w)
     print(winner)
     print(loser)
+    
     for i in range(n+1):
         if len(winner[i]) + len(loser[i]) == n-1:
             answer += 1
