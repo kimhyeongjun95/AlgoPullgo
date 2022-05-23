@@ -371,24 +371,24 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
  
 ## 40주차
   
-  - 5/2
-    - 프로그래머스 - [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
-    - 프로그래머스 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
+- 5/2
+  - 프로그래머스 - [순위](https://programmers.co.kr/learn/courses/30/lessons/49191)
+  - 프로그래머스 - [예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)
   
-  - 5/5
-    - 백준 - [레이저 통신](https://www.acmicpc.net/problem/6087)
-    - 프로그래머스 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
+- 5/5
+  - 백준 - [레이저 통신](https://www.acmicpc.net/problem/6087)
+  - 프로그래머스 - [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)
   
- ## 41주차
+## 41주차
   
-  - 5/16
-    - 백준 - [경쟁적 전염](https://www.acmicpc.net/problem/18405)
-    - 프로그래머스 - [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
-    - 백준 - [앱](https://www.acmicpc.net/problem/7579)
-    - 프로그래머스 - [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391?language=python3)
+- 5/16
+  - 백준 - [경쟁적 전염](https://www.acmicpc.net/problem/18405)
+  - 프로그래머스 - [길 찾기 게임](https://programmers.co.kr/learn/courses/30/lessons/42892)
+  - 백준 - [앱](https://www.acmicpc.net/problem/7579)
+  - 프로그래머스 - [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391?language=python3)
   
- ## 42주차
+## 42주차
   
-    - 5/23
-      - 백준 - [카드 구매하기](https://www.acmicpc.net/problem/11052)
-      - 프로그래머스 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+- 5/23
+  - 백준 - [카드 구매하기](https://www.acmicpc.net/problem/11052)
+  - 프로그래머스 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
