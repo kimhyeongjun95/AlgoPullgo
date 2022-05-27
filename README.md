@@ -7,8 +7,9 @@
 SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 
 - (~ 38주차) 매주 화요일/목요일 21시 zoom 스터디
-- (39주차 ~ 현재) 매주 월요일/목요일 21시 30분 webex 스터디
+- (39주차 ~ 42주차) 매주 월요일/목요일 21시 30분 webex 스터디
 - 전날 밤 12시까지 `.py` 파일 `github`에 `push`
+- ***알고리즘 스터디 끝!***
 
 <br>
 
@@ -392,3 +393,4 @@ SSAFY 6기 광주 1반 알고리즘 스터디 **AlgoPullgo**입니다!
 - 5/23
   - 백준 - [카드 구매하기](https://www.acmicpc.net/problem/11052)
   - 프로그래머스 - [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898)
+  
